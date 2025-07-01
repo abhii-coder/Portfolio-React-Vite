@@ -30,7 +30,7 @@ const projects = [
     year: "May2024",
     align: "left",
     image: "/images/flapbirdfly.jpg",
-    link: "#https://flapbirdfly.netlify.app/",
+    link: "https://flapbirdfly.netlify.app/",
   },
   {
     name: "bhulbulaiya",
