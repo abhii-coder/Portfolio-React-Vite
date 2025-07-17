@@ -5,6 +5,13 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const projects = [
   {
+    name: "foodiea",
+    year: "Jul2025",
+    align: "right",
+    image: "/images/foodiea.jpg",
+    link: "https://foodiea.netlify.app/",
+  },
+  {
     name: "portfolibasic",
     year: "Mar2022",
     align: "right",
