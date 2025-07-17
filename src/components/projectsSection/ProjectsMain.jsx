@@ -14,7 +14,7 @@ const projects = [
   {
     name: "flapbirdfly",
     year: "Sept2024",
-    align: "right",
+    align: "left",
     image: "/images/flapbirdfly.jpg",
     link: "https://flapbirdfly.netlify.app/",
   },
@@ -28,14 +28,14 @@ const projects = [
   {
     name: "clothforal",
     year: "Sept2023",
-    align: "right",
+    align: "left",
     image: "/images/clothforal.jpg",
     link: "https://clothforal.netlify.app/",
   },
   {
     name: "portfolibasic",
     year: "Oct2023",
-    align: "left",
+    align: "right",
     image: "/images/portfolibasic.jpg",
     link: "https://portfolibasic.netlify.app/",
   },
@@ -49,7 +49,7 @@ const projects = [
   {
     name: "camath",
     year: "Oct2023",
-    align: "left",
+    align: "right",
     image: "/images/camath.jpg",
     link: "https://camath.netlify.app/",
   },
